@@ -1,6 +1,7 @@
 .project
 .settings/
 dao-api/.classpath
+dao-impl/.classpath
 target/
 pom.xml.tag
 pom.xml.releaseBackup
