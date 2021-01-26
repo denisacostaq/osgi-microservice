@@ -2,6 +2,7 @@
 .settings/
 dao-api/.classpath
 dao-impl/.classpath
+rest-service/.classpath
 target/
 pom.xml.tag
 pom.xml.releaseBackup
