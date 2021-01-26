@@ -24,17 +24,17 @@
             <artifactId>test-bundles</artifactId>
             <type>pom</type>
         </dependency>
-        <dependency>
-		    <groupId>org.osgi.enroute.examples.osgi-microservice</groupId>
-		    <artifactId>dao-api</artifactId>
-		    <version>1.0-SNAPSHOT</version>
-		</dependency>
 		<dependency>
 		    <groupId>org.slf4j</groupId>
 		    <artifactId>slf4j-api</artifactId>
 		    <version>1.7.25</version>
 		</dependency>
-     </dependencies>
+		<dependency>
+		    <groupId>org.osgi.enroute.examples.osgi-microservice</groupId>
+		    <artifactId>dao-api</artifactId>
+		    <version>1.0-SNAPSHOT</version>
+		</dependency>
+    </dependencies>
 
     <build>
         <plugins>

@@ -240,5 +240,6 @@ Bundle-SymbolicName: ${project.groupId}.${project.artifactId}
 <modules>  <module>dao-api</module>
     <module>dao-impl</module>
     <module>rest-service</module>
+    <module>rest-app</module>
   </modules>
 </project>
